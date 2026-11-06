@@ -2,6 +2,6 @@
 
 ##Concepts
 
-## 1. Workflow
+## 1. Workflows
 
 To create a GITHUB actions workflow you need a folder called '/github/workflow'
